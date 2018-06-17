@@ -36,4 +36,6 @@ print(feifei.name)
 # 注意成员函数的调用没有传递进入参数
 yueyue.doHomework()
 
+
 print(yueyue.__dict__)
+print(PythonStudent.__dict__)
